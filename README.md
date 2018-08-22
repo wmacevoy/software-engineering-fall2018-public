@@ -4,13 +4,24 @@ first to push.
 #
 Nicholas
 #
-=======
+
 ##SHAWN PACARAR
 
 
 WOW
 
 C O N F L I C T
+
 ##Randy Hurshman
 
->>>>>>> b3bb9d2dc73cffeed31385edb601ea64e40e4753
+<<<<<<< HEAD
+
+
+## Warren MacEvoy
+
+Here is my stuff!
+
+## Teague Van Pelt
+
+This is my stuff!
+
